@@ -1,5 +1,5 @@
 # Django-Project
 Hostel Management System
 
-Our website name 'god'    path 
-Our app name 'god'
+Our web app name is 'god'    path : Django-Project/myvenv/Scripts/god/
+ 
